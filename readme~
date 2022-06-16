@@ -1,1 +1,6 @@
 this is my first modified.
+<<<<<<< HEAD
+this is my modified in main.
+=======
+this is my modified in branch1.
+>>>>>>> branch1
